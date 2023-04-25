@@ -1,0 +1,15 @@
+.filterclass input{
+    margin-top: 17px;
+    width: 600px;
+    height: 35px;
+    margin-bottom: 15px;
+    border: 2px solid rgb(68, 68, 68);
+}
+
+.pinheading{
+    margin-top: 20px;
+}
+.errormsg{
+    margin-left: 270px;
+    margin-top: 150px;
+}
