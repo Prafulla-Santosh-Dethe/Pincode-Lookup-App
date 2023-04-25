@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pincode-Lookup-App/static/css/main.0dba30ca.css",
+    "main.js": "/Pincode-Lookup-App/static/js/main.a41681ae.js",
+    "static/js/787.646e534b.chunk.js": "/Pincode-Lookup-App/static/js/787.646e534b.chunk.js",
+    "static/media/img.jpg": "/Pincode-Lookup-App/static/media/img.d2ad2b1af482f828b9b2.jpg",
+    "index.html": "/Pincode-Lookup-App/index.html",
+    "main.0dba30ca.css.map": "/Pincode-Lookup-App/static/css/main.0dba30ca.css.map",
+    "main.a41681ae.js.map": "/Pincode-Lookup-App/static/js/main.a41681ae.js.map",
+    "787.646e534b.chunk.js.map": "/Pincode-Lookup-App/static/js/787.646e534b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dba30ca.css",
+    "static/js/main.a41681ae.js"
+  ]
+}
